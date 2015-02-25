@@ -1,0 +1,13 @@
+{
+    "name": "generator-koudaih5",
+    "version": "1.1.0",
+    "description": "Youshop H5模板",
+    "keywords": ["yeoman-generator","koudai","weidian","微店、口袋","YouShop"],
+    "dependencies": {
+        "yeoman-generator": "^0.17.3"
+    },
+    "author": {
+        "name": "Gorden Wong | China"
+    },
+    "email": "wangshiqing_wsq@126"
+}
