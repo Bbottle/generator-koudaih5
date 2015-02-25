@@ -9,5 +9,9 @@
     "author": {
         "name": "Gorden Wong | China"
     },
-    "email": "wangshiqing_wsq@126"
+    "email": "wangshiqing_wsq@126",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gorden-Wang/generator-koudaih5"
+    },
 }
